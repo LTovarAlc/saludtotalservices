@@ -40,5 +40,61 @@
             "description": " Ofrecemos servicios de salud mental y psicoterapia para abordar una variedad de problemas de salud mental, como ansiedad, depresión, trastornos alimentarios y estrés.",
             "id": 8
         }
+    ],
+    "doctors": [
+        {
+            "name": "Dr. Juan Pérez",
+            "experience": "20 años",
+            "specialty": "Medicina General",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dra. María Fernandéz",
+            "experience": "10 años",
+            "specialty": "Medicina General",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dra. María González",
+            "experience": "28 años",
+            "specialty": "Pediatría",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dr. Laura Flores",
+            "experience": "22 años",
+            "specialty": "Pediatría",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dr. Luis Hernández",
+            "experience": "18 años",
+            "specialty": "Ginecología y Obstetricia",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dra. Ana Ramírez",
+            "experience": "22 años",
+            "specialty": "Cardiología",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dr. Carlos Martínez",
+            "experience": "17 años",
+            "specialty": "Dermatología",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dra. Laura Sánchez",
+            "experience": "13 años",
+            "specialty": "Nutrición y Dietética",
+            "photoUrl": "doctor.png"
+        },
+        {
+            "name": "Dr. Javier López",
+            "experience": "16 años",
+            "specialty": "Salud Mental y Psicoterapia",
+            "photoUrl" : "doctor.png"
+        }
     ]
 }
