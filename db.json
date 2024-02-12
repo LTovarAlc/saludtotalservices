@@ -46,55 +46,64 @@
             "name": "Dr. Juan Pérez",
             "experience": "20 años",
             "specialty": "Medicina General",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 1
         },
         {
             "name": "Dra. María Fernandéz",
             "experience": "10 años",
             "specialty": "Medicina General",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 2
         },
         {
             "name": "Dra. María González",
             "experience": "28 años",
             "specialty": "Pediatría",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 3
         },
         {
             "name": "Dr. Laura Flores",
             "experience": "22 años",
             "specialty": "Pediatría",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 4
         },
         {
             "name": "Dr. Luis Hernández",
             "experience": "18 años",
             "specialty": "Ginecología y Obstetricia",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 5
         },
         {
             "name": "Dra. Ana Ramírez",
             "experience": "22 años",
             "specialty": "Cardiología",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 6
         },
         {
             "name": "Dr. Carlos Martínez",
             "experience": "17 años",
             "specialty": "Dermatología",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 7
         },
         {
             "name": "Dra. Laura Sánchez",
             "experience": "13 años",
             "specialty": "Nutrición y Dietética",
-            "photoUrl": "doctor.png"
+            "photoUrl": "doctor.png",
+            "id": 8
         },
         {
             "name": "Dr. Javier López",
             "experience": "16 años",
             "specialty": "Salud Mental y Psicoterapia",
-            "photoUrl" : "doctor.png"
+            "photoUrl" : "doctor.png",
+            "id": 9
         }
     ]
 }
